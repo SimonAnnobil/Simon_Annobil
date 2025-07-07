@@ -1,6 +1,6 @@
 <!-- Profile Header Banner (Optional, can replace with your custom banner image) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.gif" alt="Welcome Banner" width="100%" />
+  <img src=" https://drive.google.com/file/d/1E2zVbiwDBpgBqlm9ubqmK1nbSWKs9Bw_/view?usp=drivesdk" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Kojo Simon</h1>
