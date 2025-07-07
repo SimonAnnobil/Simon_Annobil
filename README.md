@@ -23,4 +23,6 @@
 💭 I believe in the power of code and creativity to solve problems and inspire people.
 
 🛠️ Current Focus: Building a solid portfolio, contributing to open source, and perfecting user experiences across devices.
+
+https://github.com/SimonAnnobil/FirstProject/blob/985ee4768b67a3aab344483088f2a29094e291e7/profile-pic%20(1).png
 # Simon_Annobil
