@@ -11,7 +11,6 @@
 ## 💡 About Me
 
 ```html
-<!-- You can replace this with custom styling or keep it simple -->
 🎓 I'm currently enrolled in the ALX Front-End Development Program  
 💼 Actively seeking entry-level roles, internships, or freelance projects  
 🌐 I specialize in crafting beautiful, functional, and responsive websites  
@@ -21,7 +20,7 @@
 - E-commerce Sites
 - Government & Public Sector Platforms
 
-💭 “I believe in the power of code and creativity to solve problems and inspire people.”
+💭 I believe in the power of code and creativity to solve problems and inspire people.
 
 🛠️ Current Focus: Building a solid portfolio, contributing to open source, and perfecting user experiences across devices.
 # Simon_Annobil
