@@ -24,4 +24,4 @@
 
 🛠️ Current Focus: Building a solid portfolio, contributing to open source, and perfecting user experiences across devices.
 
-![My-pic,Alt](https://github.com/SimonAnnobil/Simon_Annobil/blob/dff718aad7091eabb000960cedc4733ac6c2503b/My-pic.png)
+![My-pic,alt](https://github.com/SimonAnnobil/Simon_Annobil/blob/dff718aad7091eabb000960cedc4733ac6c2503b/My-pic.png)
