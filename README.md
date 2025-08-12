@@ -1,6 +1,6 @@
 <!-- Profile Header Banner (Optional, can replace with your custom banner image) -->
 <p align="center">
-  <img src="https://github.com/SimonAnnobil/Simon_Annobil/blob/56decb3a341a112bd33fd909a85677a96ae65a28/My-pic.png" alt="Welcome Banner" width="100%" />
+  <img src="https://github.com/SimonAnnobil/Simon_Annobil/blob/56decb3a341a112bd33fd909a85677a96ae65a28/My-pic.png" alt="Welcome Banner" width="50%" height="50%" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Kojo Simon</h1>
